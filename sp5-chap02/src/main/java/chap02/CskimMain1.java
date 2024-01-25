@@ -17,3 +17,6 @@ public class CskimMain1 {
 		System.out.println("입력된 문자열: " + message);
 	}
 }
+
+// 요기는 로컬에서 수정한 부분
+// 이제 commit & push 할 때 어떻게 될까???
