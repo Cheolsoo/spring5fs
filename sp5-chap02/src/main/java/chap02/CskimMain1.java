@@ -1,6 +1,7 @@
 package chap02;
 
-// 다른 사용자 또는 github - local 에서 수정한 부분
+// 다른 사용자 또는 github - server 에서 수정한 부분
+
 // 로컬에서 수정 후 push 할 때 어떻게 반응이 나오는지 확인하려는 목적
 
 public class CskimMain1 {
