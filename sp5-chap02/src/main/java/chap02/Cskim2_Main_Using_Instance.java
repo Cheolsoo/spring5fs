@@ -13,7 +13,7 @@
  */
 package chap02;
 
-public class CskimMain2_Using_Instance {
+public class Cskim2_Main_Using_Instance {
 	// Define another method that takes a string as an argument and prints it 
 	public void printMessage(String message) {
 		System.out.println("입력된 문자열: " + message);
@@ -26,7 +26,7 @@ public class CskimMain2_Using_Instance {
 		String varA = "김철수";
 		
 		// Create an instance of Example and call printMessage with strA as an argument
-		CskimMain2_Using_Instance example = new CskimMain2_Using_Instance();
+		Cskim2_Main_Using_Instance example = new Cskim2_Main_Using_Instance();
 		example.printMessage(varA);
 	}
 	
