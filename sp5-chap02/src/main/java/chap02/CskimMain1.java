@@ -1,6 +1,5 @@
 package chap02;
 
-// 서버 수정 - 집에가자
 public class CskimMain1 {
 
 	public static void main(String[] args) {
@@ -13,7 +12,7 @@ public class CskimMain1 {
 		printMessage(varA);
 	}
 	
-	// Define another method that takes a string as an argument and prints it ---- 집에 가자 
+	// Define another method that takes a string as an argument and prints it 
 	public static void printMessage(String message) {
 		System.out.println("입력된 문자열: " + message);
 	}
