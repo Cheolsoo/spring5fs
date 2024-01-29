@@ -1,6 +1,6 @@
 package chap02;
 
-public class CskimMain1 {
+public class Cskim1_Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
