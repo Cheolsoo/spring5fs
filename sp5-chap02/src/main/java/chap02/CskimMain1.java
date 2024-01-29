@@ -1,5 +1,6 @@
 package chap02;
 
+// 서버에서는 CskimMain1 으로 한번 더 수정 후 커밋
 public class CskimMain1 {
 
 	public static void main(String[] args) {
