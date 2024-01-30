@@ -1,5 +1,8 @@
 package chap02;
 
+/*
+ * win11 에서 수정함
+ */
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class Main2 {
