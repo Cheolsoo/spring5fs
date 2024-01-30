@@ -1,5 +1,10 @@
 package chap02;
 
+/*
+ * w2022 에서 수정한 부분
+ */
+
+
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class Main2 {
